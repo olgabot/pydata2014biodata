@@ -52,7 +52,3 @@ docs/_build/
 
 # PyBuilder
 target/
-
-
-# Ipython noteobok
-.ipynb_checkpoints
